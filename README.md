@@ -11,4 +11,4 @@ I aim to share my work for educational purposes.
 
 Code could be written either for symbolic calculations or to enhance the visibility of theorems of corollaries by concrete calculations and examples.
 
-Some of the exercises are still "in work status". Nearly everything could be solved by IA nowadays, but I wonder if epistemology could be applied to machines ... It is debatable.
+Some of the exercises are still "in work status".
