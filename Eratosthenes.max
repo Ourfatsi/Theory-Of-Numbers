@@ -1,4 +1,4 @@
 kill(all)$
-load("Eratosthene.mac")$
-Eratosthene(100);
+load("Eratosthenes.mac")$
+Eratosthenes(100);
 

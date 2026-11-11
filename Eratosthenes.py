@@ -1,9 +1,9 @@
 def Eratosthenes(N):
+	#Filling numbres from 2 to N
 	L=[]
 	for k in range(2,N+1):
 		L.append(k)
-
-	print(L)
+	#Removing compound numbersup to N
 	counter = 0
 	while (counter < len(L)):
 		i = L[counter]
