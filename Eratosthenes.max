@@ -1,0 +1,4 @@
+kill(all)$
+load("Eratosthene.mac")$
+Eratosthene(100);
+
